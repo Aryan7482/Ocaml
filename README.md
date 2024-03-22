@@ -1,2 +1,2 @@
 # Ocaml
-Ocaml programming
+Ocaml programming by ARYAN KAUSHIK 
